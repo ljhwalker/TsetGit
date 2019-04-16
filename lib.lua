@@ -1,4 +1,4 @@
--- f1ile 'lib.lua'
+-- file 'lib.lua'
 
 function norm (x, y)
 	local n2 = x^2 + y*2
