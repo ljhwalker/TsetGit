@@ -8,3 +8,7 @@ end
 function twice (x)
 	return 2*x
 end
+
+function three (x)
+	return 3*x
+end
